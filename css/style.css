@@ -38,7 +38,8 @@ header .navbar {
 }
 
 .navbar a:hover {
-  color: #C06B3E;
+  /* color: #C06B3E; */
+  color: #3feb15;
 }
 
 
@@ -80,6 +81,10 @@ header .navbar {
   margin-top: 15px;
   text-transform:capitalize;
   text-shadow: 1px 1px greenyellow;
+}
+
+.hero-section .content p:hover{
+  color: #3feb15;
 }
 
 .hero-section .content button {
